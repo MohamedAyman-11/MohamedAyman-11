@@ -8,6 +8,9 @@ on:
 jobs:
   generate:
     runs-on: ubuntu-latest
+    # ضيف الجزء ده هنا عشان تسمح للأكشن إنه يرفع الملفات
+    permissions:
+      contents: write
 
     steps:
       - uses: actions/checkout@v4
