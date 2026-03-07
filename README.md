@@ -113,19 +113,19 @@
 
 <p align="center">
 
-<a href="https://wa.me/201XXXXXXXXX">
+<a href="https://wa.me/201030781453">
 <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>&nbsp;&nbsp;
 
-<a href="https://facebook.com/YOUR_FACEBOOK">
+<a href="https://www.facebook.com/share/1FquNSR3j6/">
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>&nbsp;&nbsp;
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://linkedin.com/in/mohamedayman-dev">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-in&logoColor=white"/>
 </a>&nbsp;&nbsp;
 
-<a href="mailto:yourmail@gmail.com">
+<a href="mailto:master.mohamed.ayman@email.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
