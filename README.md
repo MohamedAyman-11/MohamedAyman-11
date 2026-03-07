@@ -88,7 +88,7 @@
 
 | Project               | Description                               | Tech               |
 | --------------------- | ----------------------------------------- | ------------------ |
-| 🛒 Ecommerce Platform | Full ecommerce UI with cart , Wishlist and filtering | React / TypeScript / Redux / Taillwind / Frmaer-Motion |
+| 🛒 Ecommerce Platform | Full ecommerce UI with cart , Wish List and filtering | React / TypeScript / Redux / Taillwind / Frmaer-Motion / Strapi |
 
 ---
 
