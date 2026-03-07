@@ -13,11 +13,11 @@
 
 # 👨‍💻 About Me
 
-🎓 Computer Science Student at **Kafrelsheikh University**
-📍 From **Kafr El-Sheikh, Egypt**
-🚀 Passionate about **Frontend Development**
-💡 Currently learning **Advanced React & System Design**
-🛠 Building **Real World Projects**
+- 🎓 Computer Science Student at **Kafrelsheikh University**
+- 📍 From **Kafr El-Sheikh, Egypt**
+- 🚀 Passionate about **Frontend Development**
+- 💡 Currently learning **Advanced React & System Design**
+- 🛠 Building **Real World Projects**
 
 ---
 
