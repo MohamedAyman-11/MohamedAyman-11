@@ -120,10 +120,10 @@
 
 ---
 
-# 📊 GitHub Activity Graph
+## 📈 GitHub Analytics
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MohamedAyman-11&theme=tokyo-night"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MohamedAyman-11&theme=github_dark" width="100%" />
 </p>
 
 ---
