@@ -13,11 +13,22 @@
 
 # 👨‍💻 About Me
 
-- 🎓 Computer Science Student at **Kafrelsheikh University**
-- 📍 From **Kafr El-Sheikh, Egypt**
-- 🚀 Passionate about **Frontend Development**
-- 💡 Currently learning **Advanced React & System Design**
-- 🛠 Building **Real World Projects**
+I'm a passionate **Full Stack JavaScript Developer** from Egypt 🇪🇬.
+
+I enjoy building scalable, production-ready web applications using modern JavaScript technologies.
+
+Currently, I'm focused on designing clean architectures, secure REST APIs, and responsive user experiences.
+
+### 🚀 What I Do
+
+- 💻 Build Full Stack Applications
+- ⚙️ Develop RESTful APIs with Node.js & Express
+- 🗄️ Design MongoDB Databases using Mongoose
+- 🔐 Implement Authentication & Authorization
+- 💳 Integrate Stripe Payment Gateway
+- ☁️ Manage Images with Cloudinary
+- 🎨 Build Responsive UI using React & MUI
+- 📦 Write Reusable & Maintainable Components
 
 ---
 
