@@ -171,10 +171,13 @@ A complete booking platform that enables users to discover properties, manage re
   <a href="https://your-live-demo.com">
     <img src="https://img.shields.io/badge/🚀_Live_Demo-37a779?style=for-the-badge" />
   </a>
+<a href="https://github.com/MohamedAyman-11/Booking-app-clone-front-end">
+  <img src="https://img.shields.io/badge/💻_Frontend-181717?style=for-the-badge&logo=github&logoColor=white" alt="Frontend Repository"/>
+</a>
 
-  <a href="https://github.com/MohamedAyman-11/booking-platform">
-    <img src="https://img.shields.io/badge/📂_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+<a href="https://github.com/MohamedAyman-11/Booking-app-clone-back-end">
+  <img src="https://img.shields.io/badge/⚙️_Backend-181717?style=for-the-badge&logo=github&logoColor=white" alt="Backend Repository"/>
+</a>
 </p>
 
 ---
@@ -205,9 +208,9 @@ An e-commerce application focused on performance and user experience, featuring 
     <img src="https://img.shields.io/badge/🚀_Live_Demo-37a779?style=for-the-badge" />
   </a>
 
-  <a href="https://github.com/MohamedAyman-11/ecommerce-platform">
-    <img src="https://img.shields.io/badge/📂_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+<a href="https://github.com/MohamedAyman-11/Booking-app-clone-front-end">
+  <img src="https://img.shields.io/badge/💻_Frontend-181717?style=for-the-badge&logo=github&logoColor=white" alt="Frontend Repository"/>
+</a>
 </p>
 
 ---
