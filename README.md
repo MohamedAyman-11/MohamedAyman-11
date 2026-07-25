@@ -11,7 +11,7 @@
 </h3>
 
 <p align="center">
-  <i>Building modern, scalable, and production-ready web applications from responsive user interfaces to secure backend APIs.</i> 🚀
+  <i>Building scalable, secure, and user-centric web applications using the modern JavaScript ecosystem — from responsive frontends to production-ready backend APIs.</i> 🚀
 </p>
 
 
@@ -120,21 +120,13 @@
 
 ---
 
-## 📈 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MohamedAyman-11&theme=github_dark" width="100%" />
-</p>
-
----
-
 ## 🧠 Professional Summary
 
 I am a **Full-Stack Software Engineer** specializing in the JavaScript ecosystem, focused on building scalable, secure, and high-performance web applications from concept to deployment.
 
 I have hands-on experience developing complete products using **React, TypeScript, Node.js, Express.js, MongoDB, and REST APIs**, with a strong understanding of authentication, authorization, file management, payment integration, and modern application architecture.
 
-I am passionate about writing clean, maintainable code, solving real-world problems, and continuously learning new technologies. Currently, I am deepening my knowledge of **PostgreSQL, Prisma, Docker, CI/CD, and cloud deployment** to build production-ready systems.
+I am passionate about writing clean, maintainable code, solving real-world problems, and continuously learning new technologies. Currently, I am deepening my knowledge of **PostgreSQL, Prisma, Docker, CI/CD, and cloud deployment** to build real-world applications systems.
 
 ---
 
@@ -147,16 +139,78 @@ I am passionate about writing clean, maintainable code, solving real-world probl
 - 🐳 Exploring Docker & CI/CD workflows
 - 💳 Implementing authentication & payment systems
 - 📚 Practicing Data Structures & Algorithms
-- 🌍 Preparing for international software engineering opportunities
+- 💼 Preparing for Software Engineering Internships & Full-Time Roles
 
 ---
 
 # ⭐ Featured Projects
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| 🏡 **Booking Platform** | A production-ready full-stack accommodation booking platform featuring authentication, role-based access (User, Host & Admin), property management, reservations, reviews, wishlist, Stripe payments, and responsive dashboards. | **React • TypeScript • MUI • TanStack Query • Node.js • Express.js • MongoDB • Stripe • Cloudinary** |
-| 🛒 **Ecommerce Platform** | A modern e-commerce application with authentication, product catalog, advanced filtering, shopping cart, wishlist, responsive UI, and content management powered by Strapi. | **React • TypeScript • Redux Toolkit • Tailwind CSS • Framer Motion • Strapi** |
+## 🏡 Booking Platform
+
+> **Production-ready full-stack accommodation booking platform inspired by Airbnb.**
+
+A complete booking platform that enables users to discover properties, manage reservations, make secure payments, and interact through reviews, while providing dedicated dashboards for **Users, Hosts, and Admins**.
+
+### ✨ Key Features
+
+- 🔐 JWT Authentication & Google OAuth
+- 👤 Role-Based Access (User • Host • Admin)
+- 🏠 Property Management
+- 📅 Booking & Reservation System
+- 💳 Stripe Payment Integration
+- ⭐ Reviews & Ratings
+- ❤️ Wishlist / Saved Properties
+- ☁️ Cloudinary Image Uploads
+- 📱 Fully Responsive Dashboard
+
+### 🛠️ Tech Stack
+
+`React` • `TypeScript` • `Material UI` • `TanStack Query` • `Node.js` • `Express.js` • `MongoDB` • `Stripe` • `Cloudinary`
+
+<p>
+  <a href="https://your-live-demo.com">
+    <img src="https://img.shields.io/badge/🚀_Live_Demo-37a779?style=for-the-badge" />
+  </a>
+
+  <a href="https://github.com/MohamedAyman-11/booking-platform">
+    <img src="https://img.shields.io/badge/📂_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🛒 Ecommerce Platform
+
+> **Modern and responsive e-commerce platform with a smooth shopping experience.**
+
+An e-commerce application focused on performance and user experience, featuring authentication, product browsing, wishlist management, shopping cart functionality, and advanced filtering powered by a headless CMS.
+
+### ✨ Key Features
+
+- 🔐 User Authentication
+- 🛍️ Product Catalog
+- 🔍 Advanced Search & Filtering
+- ❤️ Wishlist
+- 🛒 Shopping Cart
+- 📱 Fully Responsive Design
+- ⚡ Smooth Animations
+- 🎨 Modern UI/UX
+
+### 🛠️ Tech Stack
+
+`React` • `TypeScript` • `Redux Toolkit` • `Tailwind CSS` • `Framer Motion` • `Strapi`
+
+<p>
+  <a href="https://your-live-demo.com">
+    <img src="https://img.shields.io/badge/🚀_Live_Demo-37a779?style=for-the-badge" />
+  </a>
+
+  <a href="https://github.com/MohamedAyman-11/ecommerce-platform">
+    <img src="https://img.shields.io/badge/📂_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
 
 ---
 
