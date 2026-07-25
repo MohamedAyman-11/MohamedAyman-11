@@ -1,75 +1,98 @@
-<h1 align="center">Hi 👋, I'm Mohamed Ayman</h1>
+<p align="center">
+  <img src="YOUR_IMAGE_URL" width="220" alt="Mohamed Ayman"/>
+</p>
+
+<h1 align="center">
+  Hi 👋, I'm Mohamed Ayman
+</h1>
 
 <h3 align="center">
-Full Stack Software Engineer
+  Full Stack Software Engineer
 </h3>
 
 <p align="center">
-Building scalable web applications with React, Node.js, Express & MongoDB.
+  <i>Building modern, scalable, and production-ready web applications from responsive user interfaces to secure backend APIs.</i> 🚀
 </p>
 
+
+<div align="center">
+🌱 Computer Science Student @ <b>KSU</b>
+  <br/>
+📍 Egypt • 💼 Seeking Internship & Full-Time Opportunities
+</div>
+<br/>
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full Stack Software Engineer;JavaScript & TypeScript;React & Next.js;Node.js & Express;MongoDB & REST APIs;Building Production-Ready Applications"/>
+  <a href="https://github.com/MohamedAyman-11" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <a href="https://linkedin.com/in/mohamedayman-dev" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="mailto:master.mohamed.ayman@email.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=MohamedAyman-11&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-</p>
-
----
-
-# 👨‍💻 About Me
-
-I'm a passionate **Full Stack JavaScript Developer** from Egypt 🇪🇬.
-
-I enjoy building scalable, production-ready web applications using modern JavaScript technologies.
-
-Currently, I'm focused on designing clean architectures, secure REST APIs, and responsive user experiences.
-
-### 🚀 What I Do
-
-- 💻 Build Full Stack Applications
-- ⚙️ Develop RESTful APIs with Node.js & Express
-- 🗄️ Design MongoDB Databases using Mongoose
-- 🔐 Implement Authentication & Authorization
-- 💳 Integrate Stripe Payment Gateway
-- ☁️ Manage Images with Cloudinary
-- 🎨 Build Responsive UI using React & MUI
-- 📦 Write Reusable & Maintainable Components
-
----
 
 # 🛠 Tech Stack
 
-### 🎨 Frontend & Styling
+<h2 align='center'>🎨 Frontend</h2>
 
-<p>
+<p align="center">
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>  <img src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>  <img src="https://img.shields.io/badge/PugJS-A86454?style=for-the-badge&logo=pug&logoColor=white"/>
-![MUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
-</p>
-
----
-
-### 🎬 Animation
-
-<p>
-
-<img src="https://img.shields.io/badge/Framer%20Motion-black?style=for-the-badge&logo=framer&logoColor=blue"/>  <img src="https://img.shields.io/badge/AOS%20Animation-FF4088?style=for-the-badge"/>
-
-</p>
-
----
-
-### 🧰 Tools
-
-<p>
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>  <img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white"/>  <img src="https://img.shields.io/badge/Figma-f316b0?style=for-the-badge&logo=figma&logoColor=white"/>  <img src="https://img.shields.io/badge/Postman-ef5b25?style=for-the-badge&logo=postman&logoColor=white"/>  <img src="https://img.shields.io/badge/Strapi-4945ff?style=for-the-badge&logo=strapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
+<img src="https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white"/>
+<img src="https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white"/>
+<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+<img src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
+<img src="https://img.shields.io/badge/Framer_Motion-000000?style=for-the-badge&logo=framer&logoColor=white"/>
 
 </p>
 
----
+
+<h2 align='center'>⚙️ Backend</h2>
+<p align="center">
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+
+</p>
+
+
+<h2 align='center'>🍃 Database</h2>
+<p align="center">
+
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+</p>
+
+
+<h2 align='center'>☁️ Services & Tools</h2>
+<p align="center">
+
+<img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-EF5B25?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+
+</p>
+
 # 📊 Engineering Activity
 
 <p align="center">
