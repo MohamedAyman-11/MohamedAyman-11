@@ -201,7 +201,7 @@ An e-commerce application focused on performance and user experience, featuring 
 `React` • `TypeScript` • `Redux Toolkit` • `Tailwind CSS` • `Framer Motion` • `Strapi`
 
 <p>
-  <a href="https://your-live-demo.com">
+  <a href="https://printrado-clone.vercel.app">
     <img src="https://img.shields.io/badge/🚀_Live_Demo-37a779?style=for-the-badge" />
   </a>
 
