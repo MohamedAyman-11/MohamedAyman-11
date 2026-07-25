@@ -93,6 +93,9 @@
 
 </p>
 
+---
+
+
 # 📊 Engineering Activity
 
 <p align="center">
@@ -125,11 +128,35 @@
 
 ---
 
+## 🧠 Professional Summary
+
+I am a **Full-Stack Software Engineer** specializing in the JavaScript ecosystem, focused on building scalable, secure, and high-performance web applications from concept to deployment.
+
+I have hands-on experience developing complete products using **React, TypeScript, Node.js, Express.js, MongoDB, and REST APIs**, with a strong understanding of authentication, authorization, file management, payment integration, and modern application architecture.
+
+I am passionate about writing clean, maintainable code, solving real-world problems, and continuously learning new technologies. Currently, I am deepening my knowledge of **PostgreSQL, Prisma, Docker, CI/CD, and cloud deployment** to build production-ready systems.
+
+---
+
+## 🎯 Current Focus
+
+- 🚀 Building scalable Full-Stack applications
+- ⚛️ Developing modern UIs with React & TypeScript
+- 🛠️ Designing secure RESTful APIs using Node.js & Express
+- 🗄️ Learning PostgreSQL, Prisma & database optimization
+- 🐳 Exploring Docker & CI/CD workflows
+- 💳 Implementing authentication & payment systems
+- 📚 Practicing Data Structures & Algorithms
+- 🌍 Preparing for international software engineering opportunities
+
+---
+
 # ⭐ Featured Projects
 
-| Project               | Description                               | Tech               |
-| --------------------- | ----------------------------------------- | ------------------ |
-| 🛒 Ecommerce Platform | Full ecommerce UI with cart , Wish List and filtering | React / TypeScript / Redux / Taillwind / Frmaer-Motion / Strapi |
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| 🏡 **Booking Platform** | A production-ready full-stack accommodation booking platform featuring authentication, role-based access (User, Host & Admin), property management, reservations, reviews, wishlist, Stripe payments, and responsive dashboards. | **React • TypeScript • MUI • TanStack Query • Node.js • Express.js • MongoDB • Stripe • Cloudinary** |
+| 🛒 **Ecommerce Platform** | A modern e-commerce application with authentication, product catalog, advanced filtering, shopping cart, wishlist, responsive UI, and content management powered by Strapi. | **React • TypeScript • Redux Toolkit • Tailwind CSS • Framer Motion • Strapi** |
 
 ---
 
@@ -141,14 +168,6 @@
 
 ---
 
-# 🎯 What I'm Focused On
-
-- ⚛️ Frontend Architecture
-- 🎨 Modern UI / UX
-- ⚡ Performance Optimization
-- 🚀 Production Ready Apps
-
----
 
 # 📫 Connect With Me
 
