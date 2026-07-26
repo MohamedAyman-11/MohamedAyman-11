@@ -120,7 +120,7 @@
 
 ---
 
-## 🧠 Professional Summary
+# 🧠 Professional Summary
 
 I am a **Full-Stack Software Engineer** specializing in the JavaScript ecosystem, focused on building scalable, secure, and high-performance web applications from concept to deployment.
 
@@ -130,7 +130,7 @@ I am passionate about writing clean, maintainable code, solving real-world probl
 
 ---
 
-## 🎯 Current Focus
+# 🎯 Current Focus
 
 - 🚀 Building scalable Full-Stack applications
 - ⚛️ Developing modern UIs with React & TypeScript
