@@ -125,9 +125,9 @@
 
 I am a **Full-Stack Software Engineer** specializing in the JavaScript ecosystem, focused on building scalable, secure, and high-performance web applications from concept to deployment.
 
-I have hands-on experience developing complete products using **React, TypeScript, Node.js, Express.js, MongoDB, and REST APIs**, with a strong understanding of authentication, authorization, file management, payment integration, and modern application architecture.
+I have hands-on experience developing complete full-stack products using **React, TypeScript, Node.js, Express.js, PostgreSQL, Prisma, MongoDB, and REST APIs**, with practical experience in authentication, authorization, file uploads, payment integration, role-based systems, and modern application architecture.
 
-I am passionate about writing clean, maintainable code, solving real-world problems, and continuously learning new technologies. Currently, I am deepening my knowledge of **PostgreSQL, Prisma, Docker, CI/CD, and cloud deployment** to build real-world applications systems.
+I am passionate about writing clean, maintainable code, solving real-world problems, and continuously improving my engineering skills. My recent work includes building a complete food ordering platform with **Stripe payments, PostgreSQL, Prisma, Cloudinary, customer/admin/delivery workflows, and secure REST APIs**.
 
 ---
 
@@ -136,7 +136,7 @@ I am passionate about writing clean, maintainable code, solving real-world probl
 - 🚀 Building scalable Full-Stack applications
 - ⚛️ Developing modern UIs with React & TypeScript
 - 🛠️ Designing secure RESTful APIs using Node.js & Express
-- 🗄️ Learning PostgreSQL, Prisma & database optimization
+- 🗄️ Working with PostgreSQL, Prisma & database optimization
 - 🐳 Exploring Docker & CI/CD workflows
 - 💳 Implementing authentication & payment systems
 - 📚 Practicing Data Structures & Algorithms
@@ -208,15 +208,15 @@ A complete multi-role food ordering platform where customers can browse and cust
 `React` • `TypeScript` • `Tailwind CSS` • `shadcn/ui` • `Redux Toolkit` • `TanStack Query` • `Node.js` • `Express.js` • `PostgreSQL` • `Prisma` • `Stripe` • `Cloudinary` • `Zod`
 
 <p>
-  <a href="YOUR_CRAVEO_FRONTEND_REPO_URL">
+  <a href="https://github.com/MohamedAyman-11/full-stack-food-ordering-app-front-end">
     <img src="https://img.shields.io/badge/💻_Frontend-181717?style=for-the-badge&logo=github&logoColor=white" alt="Frontend Repository"/>
   </a>
 
-  <a href="YOUR_CRAVEO_BACKEND_REPO_URL">
+  <a href="https://github.com/MohamedAyman-11/full-stack-food-ordering-app-back-end">
     <img src="https://img.shields.io/badge/⚙️_Backend-181717?style=for-the-badge&logo=github&logoColor=white" alt="Backend Repository"/>
   </a>
 
-  <a href="YOUR_CRAVEO_LIVE_DEMO_URL">
+  <a href="https://www.linkedin.com/posts/mohamedayman-dev_%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D9%85-%D8%B9%D9%84%D9%8A%D9%83%D9%85-%D9%88%D8%B1%D8%AD%D9%85%D8%A9-%D8%A7%D9%84%D9%84%D9%87-%D9%88%D8%A8%D8%B1%D9%83%D8%A7%D8%AA%D9%87-%D8%A7%D9%84%D8%AD%D9%85%D8%AF-ugcPost-7510914285334700032-2OL2/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFaa66MB7HKcPcGsmfgBpwqpUvkwsINpi6o">
     <img src="https://img.shields.io/badge/🚀_Live_Demo-37a779?style=for-the-badge" alt="Live Demo"/>
   </a>
 </p>
@@ -246,7 +246,7 @@ A complete booking platform that enables users to discover properties, manage re
 `React` • `TypeScript` • `Material UI` • `TanStack Query` • `Node.js` • `Express.js` • `MongoDB` • `Stripe` • `Cloudinary`
 
 <p>
-  <a href="https://your-live-demo.com">
+  <a href="https://www.linkedin.com/posts/mohamedayman-dev_fullstack-react-nodejs-ugcPost-7486857292257353728-vVD6/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFaa66MB7HKcPcGsmfgBpwqpUvkwsINpi6o">
     <img src="https://img.shields.io/badge/🚀_Live_Demo-37a779?style=for-the-badge" />
   </a>
 <a href="https://github.com/MohamedAyman-11/Booking-app-clone-front-end">
