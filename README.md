@@ -145,6 +145,83 @@ I am passionate about writing clean, maintainable code, solving real-world probl
 ---
 
 # ⭐ Featured Projects
+## 🍔 Craveo — Food Ordering Platform
+
+> **Full-stack food ordering platform with customer, administrator, and delivery partner workflows.**
+
+A complete multi-role food ordering platform where customers can browse and customize menu items, manage their cart, place orders, and pay online or with cash on delivery. The platform also includes dedicated administration and delivery workflows for managing products, orders, customers, and deliveries.
+
+### ✨ Key Features
+
+#### 👤 Customer
+
+- 🔐 JWT Authentication & Google OAuth
+- 🔑 Password Recovery & Reset
+- 🍔 Browse and search food products
+- 🧩 Customize products with sizes and extras
+- 🛒 Persistent shopping cart
+- 📦 Place and track orders
+- 💳 Stripe Checkout payments
+- 💵 Cash on Delivery
+- 👤 Profile management
+- 📋 Order history and order details
+
+#### 🛠️ Administrator
+
+- 📦 Product management
+- 🗂️ Category, size & extra management
+- 👥 Customer management
+- 📋 Order management
+- 🚚 Delivery partner management
+- 🔄 Assign delivery partners to orders
+- 📊 Order status management
+
+#### 🚴 Delivery Partner
+
+- 🔐 Dedicated delivery authentication
+- 📦 View assigned orders
+- 🔄 Update delivery status
+- ❌ Cancel orders
+- ✅ Complete deliveries
+- 👤 Manage delivery profile
+
+### 💳 Payment System
+
+- Stripe Checkout integration
+- Secure Stripe webhook handling
+- Payment status synchronization
+- Support for retrying failed or cancelled payments
+- Cash-on-delivery payment flow
+
+### ☁️ Media & Infrastructure
+
+- Cloudinary image uploads
+- PostgreSQL database
+- Prisma ORM
+- Role-based authorization
+- Layered backend architecture
+- RESTful API
+- Input validation with Zod
+
+### 🛠️ Tech Stack
+
+`React` • `TypeScript` • `Tailwind CSS` • `shadcn/ui` • `Redux Toolkit` • `TanStack Query` • `Node.js` • `Express.js` • `PostgreSQL` • `Prisma` • `Stripe` • `Cloudinary` • `Zod`
+
+<p>
+  <a href="YOUR_CRAVEO_FRONTEND_REPO_URL">
+    <img src="https://img.shields.io/badge/💻_Frontend-181717?style=for-the-badge&logo=github&logoColor=white" alt="Frontend Repository"/>
+  </a>
+
+  <a href="YOUR_CRAVEO_BACKEND_REPO_URL">
+    <img src="https://img.shields.io/badge/⚙️_Backend-181717?style=for-the-badge&logo=github&logoColor=white" alt="Backend Repository"/>
+  </a>
+
+  <a href="YOUR_CRAVEO_LIVE_DEMO_URL">
+    <img src="https://img.shields.io/badge/🚀_Live_Demo-37a779?style=for-the-badge" alt="Live Demo"/>
+  </a>
+</p>
+
+---
 
 ## 🏡 Booking Platform
 
